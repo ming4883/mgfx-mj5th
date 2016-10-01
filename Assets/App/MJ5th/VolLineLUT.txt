@@ -1,0 +1,1 @@
+{"keys":[{"inTangent":-0.04499320313334465,"outTangent":-0.04499320313334465,"tangentMode":0,"time":-1.0,"value":0.9803921580314636},{"inTangent":-0.12921051681041718,"outTangent":-0.12921051681041718,"tangentMode":0,"time":1.0,"value":0.0}],"preWrapMode":8,"postWrapMode":8}
